@@ -3,4 +3,4 @@
 مینی وب سایتی برای نمایش لینک و توضیح کانال‌ها و شبکه‌هایی که در آن فعالیت‌ دارم
 </p>
 
-[https://www.ebrahimiaval.github.io](www.ebrahimiaval.github.io)
+[www.ebrahimiaval.github.io](https://ebrahimiaval.github.io/)
