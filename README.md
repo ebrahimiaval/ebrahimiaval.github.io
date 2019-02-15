@@ -1,2 +1,6 @@
 # ebrahimiaval.github.io
-مینی وب سایت نمایش لینک و توضیح کانال‌های و فعالیت‌های شخصی من
+<p dir="rtl" align="right">
+.مینی وب سایتی برای نمایش لینک و توضیح کانال‌ها و شبکه‌هایی که در آن فعالیت‌ دارم
+</p>
+
+[wwwebrahimiaval.github.io](wwwebrahimiaval.github.io)
